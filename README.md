@@ -1,6 +1,6 @@
-# Middleware Introduction
+# Middleware-Respond-Time Introduction
 
-- Getting Date/time/method/url of current request
+- Getting Date/time/method/url/respond-time of current request
 
 
 ## 現有功能
